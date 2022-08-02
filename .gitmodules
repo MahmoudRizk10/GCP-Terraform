@@ -1,0 +1,3 @@
+[submodule "GCP-Terraform"]
+	path = GCP-Terraform
+	url = https://github.com/MahmoudRizk10/GCP-Terraform.git
