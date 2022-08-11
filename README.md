@@ -1,4 +1,4 @@
-# GCP-Terraform
+# GCP-Terraform APP
 1- Create VPC
 
 - subnets (management subnet & restricted subnet)
